@@ -80,12 +80,11 @@ Run `json-server --help` for a list of options
 | Sponsors |
 | :---: |
 | <a href="https://mockend.com/" target="_blank"><img src="https://jsonplaceholder.typicode.com/mockend.svg" height="100px"></a> |
-| <a href="https://zuplo.link/json-server-gh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/typicode/json-server/assets/5502029/bb7abea9-fc54-4612-b7ab-0221c60b8ac7"><img alt="scalar" src="https://github.com/typicode/json-server/assets/5502029/51f5afed-7ba0-41bf-b9f2-ef9d8ab9dff7"></picture></a> |
-
+| <a href="https://zuplo.link/json-server-gh"><img src="https://github.com/typicode/json-server/assets/5502029/928b7526-0fdf-46ae-80d9-27fa0ef5f430"></a> |
 
 | Sponsors |
 | :---: |
-| <a href="https://konghq.com/products/kong-konnect/register?utm_medium=referral&utm_source=github&utm_campaign=platform&utm_content=json-server"><img src="https://github.com/typicode/json-server/assets/5502029/e8d8ecb2-3c45-4f60-92d0-a060b820fa7f" height="75px"></a> |
+| <a href="https://konghq.com/products/kong-konnect?utm_medium=referral&utm_source=github&utm_campaign=platform&utm_content=json-server"><img src="https://github.com/typicode/json-server/assets/5502029/e8d8ecb2-3c45-4f60-92d0-a060b820fa7f" height="75px"></a> |
 
 | Sponsors | |
 | :---: | :---: |
@@ -195,7 +194,7 @@ DELETE /posts/1?_dependent=comments
 
 ## Serving static files
 
-If you create a `./public` directory, JSON Serve will serve its content in addition to the REST API.
+If you create a `./public` directory, JSON Server will serve its content in addition to the REST API.
 
 You can also add custom directories using `-s/--static` option.
 
